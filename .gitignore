@@ -1,0 +1,10 @@
+# Binaries
+/golearn
+*.exe
+*.test
+*.out
+
+# Go workspace / local
+.idea/
+*.swp
+*~
