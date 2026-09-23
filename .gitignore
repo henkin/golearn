@@ -6,5 +6,6 @@
 
 # Go workspace / local
 .idea/
+.vscode/
 *.swp
 *~
